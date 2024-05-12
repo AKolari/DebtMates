@@ -1,1 +1,1 @@
-# DebtMates
+# Debtmates
